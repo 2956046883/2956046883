@@ -1,4 +1,4 @@
-# Chong Wang | 王翀
+# Chong Wang 
 <p align="center">
   <em>Undergraduate Student | School of Cyber Science and Engineering | Southeast University</em>
 </p>
